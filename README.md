@@ -7,3 +7,4 @@ nějaká změna textu
 ## další změna kódu
 
 ### změna kódu přímo z githubu
+### úprava kódu 30.1.2024 17:55
